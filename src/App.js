@@ -32,8 +32,7 @@ function App() {
           borderRadius: '10px',
         }}
       >
-        {`Generated Color:
-     ${hexCode}`}
+        Generated Color: {hexCode}
       </div>
       <button
         style={{
